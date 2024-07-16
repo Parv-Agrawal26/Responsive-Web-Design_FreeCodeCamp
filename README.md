@@ -40,5 +40,6 @@ Welcome to my repository showcasing projects completed as part of the FreeCodeCa
 - **Typography and Animation:** Utilization of typography best practices and CSS animations to enhance user experience.
   
 - **Project-Based Learning:** Practical application of skills through building real-world projects to reinforce learning.
+# [View my FreeCodeCamp Responsive Web Design Certification] (https://freecodecamp.org/certification/parv_agrawal/responsive-web-design)
 
 Explore each project folder to view the code and see the application of these skills. Feel free to reach out with any questions or feedback!
